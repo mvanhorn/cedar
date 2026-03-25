@@ -132,8 +132,8 @@
     "@cedarjs/server-store": "workspace:*",
     "@cedarjs/web": "workspace:*",
     "graphql": "16.13.1",
-    "react": "19.2.3",
-    "react-dom": "19.2.3",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
     "react-server-dom-webpack": "19.2.4"
   },
   "devDependencies": {
@@ -152,8 +152,8 @@
     "vitest": "3.2.4"
   },
   "peerDependencies": {
-    "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
   },
   "publishConfig": {
     "access": "public"
